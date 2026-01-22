@@ -76,4 +76,4 @@ Automatic timestamps (createdAt, updatedAt)
 Comprehensive error handling  
 Proper HTTP status codes  
 Clean code structure  
-Responsive web interface  
+Responsive web interface
